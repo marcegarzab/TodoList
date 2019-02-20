@@ -1,0 +1,1 @@
+This is a project where the HTML and CSS were already made and I had to implement the javascript to add functionality to the page. It consists of 4 functionalities: 1.Add a new To Do to the To Do List. 2.Check all checkboxes for the To Do's. 3.Clear all checkboxes for the To Do's. 4.Delete all checked To Do's.
